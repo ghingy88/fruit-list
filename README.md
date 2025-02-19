@@ -1,0 +1,4 @@
+React Frontend
+Python FastAPI Backend
+GET, POST, PUT, DELETE
+CREATE, READ, UPDATE, DELETE
